@@ -1,0 +1,101 @@
+* {
+	margin: 0px;
+	padding: 0px;
+
+}
+body {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner {
+    width: 100%;
+    float: left;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.content {
+    width: 50%;
+    float: left;
+}
+.content h1 {
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 110px;
+}
+.content h1 span {
+    color: green;
+    padding-left: 3%;
+}
+.content p {
+    color: wheat;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.content ul {
+    list-style: none;
+    color: white;
+    padding-top: 25px;
+}
+.content ul li {
+    margin-top: 5px;
+}
+.fa.fa-check-circle{
+  margin-right: 8px;
+}
+
+.btn-1 {
+    background: aqua;
+    margin: 45px;
+    padding: 12px 35px;
+    font-size: 19px;
+    border: none;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+.login-section {
+    width: 50%;
+    float: left;
+}
+.resister-box {
+    width: 380px;
+    background-color: cadetblue;
+    margin: 100px 130px;
+    padding: 40px 20px;
+    text-align: center;
+}
+.resister-box h2 {
+    color: white;
+    font-size: 24px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+.resister-box p{
+	    padding: 6px 70px;
+}
+.form-control {
+    display: block;
+    width: 70%;
+    margin-bottom: 15px;
+    padding: 9px 10px;
+    margin-left: 59.2px;
+    border: none;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+.btn-2 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    background: burlywood;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+
+
+
+
